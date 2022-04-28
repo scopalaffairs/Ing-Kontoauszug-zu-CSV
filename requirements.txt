@@ -1,0 +1,2 @@
+pdfplumber==0.6.1
+regex==2022.4.24
